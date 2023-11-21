@@ -1,0 +1,15 @@
+{
+  "magic_login": "E-Mail mit Login-Link senden",
+  "welcome_back": "Wilkommen zurück ",
+  "to_dashboard": "Weiter zum Dashboard",
+  "dark": "Dunkel",
+  "light": "Hell",
+  "de": "Deutsch",
+  "en": "Englisch",
+  "fr": "Französisch",
+  "language": "Sprache",
+  "logout": "Abmelden",
+  "login": "Anmelden",
+  "dashboard": "Dashboard",
+  "ship_fast_footer": "Die NextJS Boilerplate mit allem, was Sie für die Entwicklung Ihres SaaS, AI-Tools oder einer anderen Web-App benötigen."
+}
