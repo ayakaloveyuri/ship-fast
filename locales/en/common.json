@@ -1,0 +1,15 @@
+{
+  "magic_login": "Send Magic Link",
+  "welcome_back": "Welcome back ",
+  "to_dashboard": "Continue to Dashboard",
+  "dark": "Dark",
+  "light": "Light",
+  "de": "German",
+  "en": "English",
+  "fr": "French",
+  "language": "Language",
+  "logout": "Sign Out",
+  "login": "Sign In",
+  "dashboard": "Dashboard",
+  "ship_fast_footer": "The NextJS boilerplate with all you need to build your SaaS, AI tool, or any other web app."
+}

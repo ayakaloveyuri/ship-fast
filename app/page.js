@@ -1,6 +1,6 @@
 import ButtonSignin from "@/components/ButtonSignin";
 
-export default function Page() {
+export default function Page () {
   return (
     <>
       <header className="p-4 flex justify-end max-w-7xl mx-auto">
